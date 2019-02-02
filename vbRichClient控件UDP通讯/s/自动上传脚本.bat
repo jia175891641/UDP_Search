@@ -1,5 +1,4 @@
 cd C:\git\VB\UDP_Search
 git add .
-git  commit -m "测试一下" 
+git  commit -m "没有注释" 
 git push -u origin master 
-pause
