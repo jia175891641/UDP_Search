@@ -10,7 +10,7 @@ Begin VB.Form Form1
    ScaleWidth      =   7200
    StartUpPosition =   3  '¥∞ø⁄»± °
    Begin VB.CommandButton Command3 
-      Caption         =   "≤‚ ‘"
+      Caption         =   "test"
       Height          =   375
       Left            =   2160
       TabIndex        =   4
